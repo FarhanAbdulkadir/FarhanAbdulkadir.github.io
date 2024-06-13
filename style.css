@@ -5,5 +5,22 @@ body{
   margin-top: 45px;
   margin-left: 50px;
   
+}
+.empl-header{
+  text-align: center;
+  font-size: 18px;
+  text-transform: uppercase;
+  border-top: 2px dotted lightgrey;
+  border-bottom: 2px dotted lightgrey;
+  background-color: rgb(63, 62, 60)
+  
+}
+.Education{
+  text-transform: uppercase;
+  border-top: 2px dotted lightgrey;
+  border-bottom: 2px dotted lightgrey;
+  background-color: rgb(63, 62, 60)
+  
+  
   
 }
