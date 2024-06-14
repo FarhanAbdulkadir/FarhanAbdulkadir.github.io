@@ -1,12 +1,18 @@
+
 body{
-  background-color: black;
-  color: white;
-  font-family: Times New Roman, Times, Serif;
-  border: solid white;
-  margin-top: 45px;
-  margin-left: 50px;
+
+
+ background-color: black; 
+ color: white;
+ font-family: Times New Roman, Times, Serif;
+ margin-top: 45px;
+ margin-left: 50px;
+
+ 
+  
   
 }
+ 
 .empl-header{
   text-align: center;
   font-size: 18px;
@@ -25,3 +31,6 @@ body{
   
   
 }
+
+
+
